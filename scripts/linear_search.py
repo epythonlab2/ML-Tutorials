@@ -15,3 +15,10 @@ print(linear_search(arr, target))
 target = 10
 arr = [4, 5, 8, 9, 2, 1]
 print(linear_search(arr, target))
+
+# Watch Full Video 
+    """
+        Algorithmic thinking with linear search example 
+    
+        https://www.youtube.com/watch?v=f0KsENxdTGI
+    """
