@@ -34,8 +34,8 @@ Welcome to our repository! Here, we share a wide range of resources and tutorial
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/epythonlab2/ML-Tutorials.git
+   cd ML-Tutorials
 
 🛠️ Contributing
 
@@ -49,4 +49,5 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 
 Follow us: Your LinkedIn/Personal Website/GitHub
 Contact us: YourEmail@example.com
+
 Happy learning and coding! 😊
