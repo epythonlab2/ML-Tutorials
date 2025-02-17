@@ -1,6 +1,6 @@
 # Binary Search (O(log n))
 def search_user_binary(users, target):
-    """ Uses binary search to efficiently 
+    """ Users binary search to efficiently 
     find a user in a sorted list. """
     
     left, right = 0, len(users) - 1
